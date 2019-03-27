@@ -41,7 +41,7 @@
     
     <url>
     
-      <loc>/post/</loc>
+      <loc>/archive/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -68,7 +68,7 @@
     
     <url>
     
-      <loc>/post/getting-started/</loc>
+      <loc>/archive/getting-started/</loc>
       <lastmod>2017-09-03T00:00:00+02:00</lastmod>
     </url>
     
@@ -86,7 +86,7 @@
     
     <url>
     
-      <loc>/post/managing-content/</loc>
+      <loc>/archive/managing-content/</loc>
       <lastmod>2016-04-18T00:00:00+02:00</lastmod>
     </url>
     
@@ -95,7 +95,7 @@
     
     <url>
     
-      <loc>/post/writing-markdown-latex/</loc>
+      <loc>/archive/writing-markdown-latex/</loc>
       <lastmod>2016-04-17T00:00:00+02:00</lastmod>
     </url>
     
@@ -104,7 +104,7 @@
     
     <url>
     
-      <loc>/post/faq/</loc>
+      <loc>/archive/faq/</loc>
       <lastmod>2016-04-10T00:00:00+02:00</lastmod>
     </url>
     
@@ -122,7 +122,7 @@
     
     <url>
     
-      <loc>/post/migrate-from-jekyll/</loc>
+      <loc>/archive/migrate-from-jekyll/</loc>
       <lastmod>2014-03-10T00:00:00+01:00</lastmod>
     </url>
     
@@ -211,6 +211,16 @@
     
       <loc>/tags/jekyll/</loc>
       <lastmod>2014-03-10T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/</loc>
+      <lastmod>2016-04-19T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
