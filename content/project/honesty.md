@@ -1,22 +1,22 @@
 +++
 # Date this page was created.
-date = "2016-04-27"
+date = "2019-05-18"
 
 # Project title.
-title = "External Project"
+title = "The evolution of honesty"
 
 # Project summary to display on homepage.
-summary = "An example of linking directly to an external project website using `external_link`."
+summary = "An experimental test on the evolution of honesty via partner choice."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "boards.jpg"
+image_preview = ""
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["demo"]
+tags = ["work-in-progress"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://example.org"
+external_link = ""
 
 # Does the project detail page use math formatting?
 math = false
