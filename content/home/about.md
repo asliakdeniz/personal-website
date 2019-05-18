@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = "2016-04-20T00:00:00"
+date = "2019-05-18"
 
 # Order that this section will appear in.
 weight = 5
@@ -29,8 +29,8 @@ weight = 5
 
 # About
 
-I am a Ph.D. Candidate in Economics at [CREED](http://www.creedexperiment.nl/creed/) (University of Amsterdam) under the supervision of [Matthijs van Veelen](http://www.creedexperiment.nl/creed/people.php?name=veelen). My main research interests are (Evolutionary) Game Theory and Behavioral Economics. I am currently working on the evolution of cooperative behavior. 
+I am a Ph.D. Candidate in Economics at [CREED](http://www.creedexperiment.nl/creed/) (University of Amsterdam) under the supervision of [Matthijs van Veelen](http://www.creedexperiment.nl/creed/people.php?name=veelen). My main research interests are (Evolutionary) Game Theory and Behavioral Economics. I am currently working on the evolution of cooperative behavior and honesty. 
 
-On this website, you can read further about my research and find detailed information about my background, contact details and [CV](CV_Medium_Length.pdf). 
+On this website, you can read further about my research and find detailed information about my background, contact details and [CV](CVAslihanAkdeniz.pdf). 
 
 

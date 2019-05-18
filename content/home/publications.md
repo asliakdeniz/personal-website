@@ -3,23 +3,23 @@
 # This widget displays recent publications from `content/publication/`.
 widget = "publications"
 active = false
-date = 2016-04-20
+date = 2019-05-18
 
-title = "Publications"
+title = "Research"
 subtitle = ""
 
 # Order that this section will appear in.
 weight = 20
 
 # Number of publications to list.
-count = 10
+count = 3
 
 # List format.
 #   0 = Simple
 #   1 = Detailed
 #   2 = APA
 #   3 = MLA
-list_format = 3
+list_format = 2
 
 # Filter by publication type.
 # -1: Any

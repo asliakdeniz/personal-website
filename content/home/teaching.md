@@ -20,7 +20,7 @@ weight = 60
 - Microeconomics I (Bachelor course, TA), Fall 2018
 - Applied Econometrics (Master course, TA), Fall 2017
 - Applied Financial Econometrics (Master course, TA), Fall 2017
-- Bachelor Thesis Supervision
+- Bachelor Theses Supervision
 
 **Tinbergen Institute**
 
